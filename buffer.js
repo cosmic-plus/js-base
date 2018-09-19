@@ -8,5 +8,5 @@ if (env.isBrowser) {
   const memo = new StellarSdk.Memo('hash', hash)
   module.exports = memo.value.__proto__.constructor
 } else {
-  module.exports = env.nodeRequire('safe-buffer')
+  module.exports = env.nodeRequire('safe-buffer').Buffer
 }
