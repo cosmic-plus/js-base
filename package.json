@@ -1,6 +1,6 @@
 {
   "name": "@cosmic-plus/base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Various base modules related to Stellar",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
