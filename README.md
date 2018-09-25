@@ -12,6 +12,11 @@ Then: `const ${module} = require('@cosmic-plus/base/${module}')`
 
 ## Modules
 
+### Configuration
+
+* `wallets`: A list of wallets that accept arbitrary Stellar transactions as
+  input.
+
 ### Dispatchers
 
 Dispatchers implements different way to load modules depending on whether the
