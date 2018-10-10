@@ -16,6 +16,10 @@ Then: `const ${module} = require('@cosmic-plus/base/${module}')`
 
 * `wallets`: A list of wallets that accept arbitrary Stellar transactions as
   input.
+  
+### Utils
+
+* `friendbot`: A function that fund a wallet on testnet: `frienbot(publicKey)`.
 
 ### Dispatchers
 
