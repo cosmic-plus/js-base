@@ -1,10 +1,10 @@
-'use_strict'
+"use_strict"
 
-const env = require('@cosmic-plus/jsutils/env')
+const env = require("@cosmic-plus/jsutils/env")
 
 if (env.isBrowser) {
-  if (StellarSdk === undefined) console.error('Missing dependency: StellarSdk')
-  else module.exports = StellarSdk
+  if (window.StellarSdk === undefined) console.error("Missing dependency: StellarSdk")
+  else module.exports = window.StellarSdk
 } else {
-  module.exports = env.nodeRequire('stellar-sdk')
+  module.exports = env.nodeRequire("stellar-sdk")
 }
