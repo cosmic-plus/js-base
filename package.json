@@ -1,6 +1,6 @@
 {
   "name": "@cosmic-plus/base",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Various base modules related to Stellar",
   "author": "MisterTicot",
   "repository": "github:cosmic-plus/node-base",
@@ -10,10 +10,10 @@
     "lint": "eslint --fix *.js"
   },
   "devDependencies": {
-    "eslint": "^5.8.0"
+    "eslint": "^5.9.0"
   },
   "dependencies": {
-    "@cosmic-plus/jsutils": "^1.5.0",
+    "@cosmic-plus/jsutils": "^1.7.0",
     "axios": "^0.18.0",
     "stellar-sdk": "^0.11.0"
   }
