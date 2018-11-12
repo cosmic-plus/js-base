@@ -13,22 +13,29 @@ wallets.StellarAuthenticator = {
 
 wallets.LedgerWallet = {
   name: "Ledger Wallet",
-  protocol: "ledgerwallet"
+  protocol: "ledgerwallet",
+  needSource: true,
+  needNetwork: true
 }
 
 wallets.Sep7Wallet = {
   name: "Sep-0007 Wallet",
   protocol: "sep0007",
-  url: "web+stellar:tx/"
+  url: "web+stellar:tx/",
+  needNetwork: true
 }
 
 wallets.StellarLaboratory = {
   name: "Stellar Laboratory",
   protocol: "stellarlab",
-  url: "https://stellar.org/laboratory/#txsigner"
+  url: "https://stellar.org/laboratory/#txsigner",
+  needSource: true,
+  needNetwork: true
 }
 
 wallets.CopyPasteXdr = {
   name: "Copy/Paste XDR",
-  protocol: "copy"
+  protocol: "copy",
+  needSource: true,
+  needNetwork: true
 }
