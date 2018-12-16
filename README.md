@@ -3,6 +3,9 @@
 This package contains various modules related to Stellar on which higher-level
 cosmic-plus libraries depends.
 
+*Note:* This is an internal library an may be modified in compatibility-breaking
+ways.
+
 ## Install & Import
 
 * **Npm** `npm install @cosmic-plus/base`
@@ -16,7 +19,7 @@ Then: `const ${module} = require('@cosmic-plus/base/${module}')`
 
 * `wallets`: A list of wallets that accept arbitrary Stellar transactions as
   input.
-  
+
 ### Utils
 
 * `friendbot`: A function that fund a wallet on testnet: `frienbot(publicKey)`.
