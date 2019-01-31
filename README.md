@@ -3,8 +3,8 @@
 This package contains various modules related to Stellar on which higher-level
 cosmic-plus libraries depends.
 
-*Note:* This is an internal library an may be modified in compatibility-breaking
-ways.
+*Note:* This is an internal library and may be modified in
+compatibility-breaking ways.
 
 ## Install & Import
 
@@ -39,5 +39,5 @@ environment is Node.js or browser.
 ## Additional Resources
 
 * GitHub repository: https://github.com/cosmic-plus/node-base
-* NPM package: https://npmjs.com/cosmic-plus/base
-* Yarn package: https://yarn.pm/cosmic-plus/base
+* NPM package: https://npmjs.com/@cosmic-plus/base
+* Yarn package: https://yarn.pm/@cosmic-plus/base
