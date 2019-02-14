@@ -22,6 +22,7 @@ wallets.Sep7Wallet = {
   name: "Sep-0007 Wallet",
   protocol: "sep0007",
   url: "web+stellar:tx/",
+  target: "external",
   needNetwork: true
 }
 
@@ -29,6 +30,7 @@ wallets.StellarLaboratory = {
   name: "Stellar Laboratory",
   protocol: "stellarlab",
   url: "https://stellar.org/laboratory/#txsigner",
+  target: "new",
   needSource: true,
   needNetwork: true
 }
