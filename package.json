@@ -18,6 +18,6 @@
   "dependencies": {
     "@cosmic-plus/jsutils": "^1.14.1",
     "axios": "^0.18.0",
-    "stellar-sdk": "^0.13.0"
+    "stellar-sdk": "^0.14.0"
   }
 }
