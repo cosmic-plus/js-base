@@ -11,7 +11,9 @@ compatibility-breaking ways.
 - **Npm** `npm install @cosmic-plus/base`
 - **Yarn** `yarn add @cosmic-plus/base`
 
-Then: `const ${module} = require('@cosmic-plus/base/${module}')`
+Then: `const { $module, ... } = require("@cosmic-plus/base")`
+
+To pick a module: `const $module = require("@cosmic-plus/base/src/$module")`
 
 ## Modules
 
