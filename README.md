@@ -13,7 +13,7 @@ compatibility-breaking ways.
 
 Then: `const { $module, ... } = require("@cosmic-plus/base")`
 
-To pick a module: `const $module = require("@cosmic-plus/base/src/$module")`
+To pick a module: `const $module = require("@cosmic-plus/base/es5/$module")`
 
 ## Modules
 
