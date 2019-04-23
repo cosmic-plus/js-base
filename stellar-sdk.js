@@ -1,6 +1,6 @@
 "use_strict"
 
-const env = require("@cosmic-plus/jsutils/env")
+const env = require("@cosmic-plus/jsutils/es5/env")
 
 if (env.isBrowser) {
   if (window.StellarSdk === undefined)

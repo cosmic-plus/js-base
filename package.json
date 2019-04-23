@@ -16,7 +16,7 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
-    "@cosmic-plus/jsutils": "^1.15.0",
+    "@cosmic-plus/jsutils": "^2.0.0",
     "axios": "^0.18.0",
     "stellar-sdk": "^0.15.0"
   }
