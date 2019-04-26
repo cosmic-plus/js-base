@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## 2.0.0 - 2019-04-26
 
 ### Breaking
 
@@ -16,7 +16,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
-- Update [stellar-sdk] to 0.15.0
+- Update [stellar-sdk] to 0.15.0.
 
 ## 1.3.5 - 2019-02-27
 
@@ -57,6 +57,6 @@ All notable changes to this project will be documented in this file.
 ## Older Releases
 
 There is no changelog for older releases. Please take a look at the [commit
-history](https://github.com/cosmic-plus/node-ledger-wallet/commits/master).
+history](https://github.com/cosmic-plus/node-base/commits/master).
 
 [stellar-sdk]: https://github.com/stellar/js-stellar-sdk
