@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Changed
+
+- Update known public keys aliases.
+
 ## 2.0.0 - 2019-04-26
 
 ### Breaking
