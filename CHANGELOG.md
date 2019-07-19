@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+- Update known public key aliases.
+
 ## 2.0.3 - 2019-06-18
 
 ### Changed
