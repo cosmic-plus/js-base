@@ -40,6 +40,6 @@ environment is Node.js or browser.
 
 ## Additional Resources
 
-- GitHub repository: https://github.com/cosmic-plus/node-base
+- GitHub repository: https://github.com/cosmic-plus/js-base
 - NPM package: https://npmjs.com/@cosmic-plus/base
 - Yarn package: https://yarn.pm/@cosmic-plus/base

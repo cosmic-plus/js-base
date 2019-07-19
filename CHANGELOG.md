@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## 2.0.4 - 2019-07-19
 
 - Update [stellar-sdk] to 2.0.1.
 - Update known public key aliases.
