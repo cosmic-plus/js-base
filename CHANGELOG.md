@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2.0.5 - 2019-07-26
+
+### Changed
+
+- Automate release procedure.
+
 ## 2.0.4 - 2019-07-19
 
 - Update [stellar-sdk] to 2.0.1.
