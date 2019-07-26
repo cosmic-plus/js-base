@@ -12,6 +12,8 @@ All notable changes to this project will be documented in this file.
 
 ## 2.0.4 - 2019-07-19
 
+### Changed
+
 - Update [stellar-sdk] to 2.0.1.
 - Update known public key aliases.
 
@@ -89,6 +91,6 @@ All notable changes to this project will be documented in this file.
 ## Older Releases
 
 There is no changelog for older releases. Please take a look at the [commit
-history](https://github.com/cosmic-plus/node-base/commits/master).
+history](https://github.com/cosmic-plus/js-base/commits/master).
 
 [stellar-sdk]: https://github.com/stellar/js-stellar-sdk
