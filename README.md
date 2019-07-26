@@ -1,5 +1,11 @@
 # @cosmic-plus/base
 
+![Licence](https://img.shields.io/github/license/cosmic-plus/js-base.svg)
+[![Dependencies](https://david-dm.org/cosmic-plus/js-base/status.svg)](https://david-dm.org/cosmic-plus/js-base)
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/@cosmic-plus/base.svg)
+![Size](https://img.shields.io/bundlephobia/minzip/@cosmic-plus/base.svg)
+![Downloads](https://img.shields.io/npm/dt/@cosmic-plus/base.svg)
+
 This package contains various modules related to Stellar on which higher-level
 cosmic-plus libraries depends.
 
