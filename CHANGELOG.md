@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Automate release procedure.
+- Add contributing guidelines.
 
 ## 2.0.4 - 2019-07-19
 
