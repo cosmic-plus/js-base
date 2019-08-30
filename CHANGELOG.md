@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
+- Meta: upgrade stellar-sdk to 3.x.
 - Documentation: update contributing guidelines.
 
 ## 2.0.5 - 2019-07-26
