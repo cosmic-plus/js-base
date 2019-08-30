@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Changed
+
+- Documentation: update contributing guidelines
+
 ## 2.0.5 - 2019-07-26
 
 ### Changed

@@ -4,7 +4,7 @@ Welcome to new contributors! This project is open to input & edits.
 
 ## Bug Reports & Feature Requests
 
-Please check the [dedicated form](https://github.com/cosmic-plus/js-base/issues/new/choose).
+Please use the [dedicated form](https://github.com/cosmic-plus/js-base/issues/new/choose).
 
 ## Pull Requests
 
@@ -44,7 +44,6 @@ First of all update the package version into `package.json`.
 
 ```
 export version={semver}
-npm update
 npm run make-release
 npm run publish-release
 ```
@@ -55,10 +54,8 @@ Please sign your commits and tags with your PGP key.
 
 Those helpers require a POSIX shell.
 
-- `npm run lint`: Lint code. (**Before each commit**)
+- `npm run lint`: Lint code.
 - `npm run build`: Build the transpiled code.
 - `npm run watch`: Automatically transpile code after each change.
 - `version={semver} npm run make-release`: Build & locally commit release.
 - `version={semver} npm run publish-release`: Tag, push & publish release.
-
-
