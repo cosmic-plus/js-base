@@ -1,4 +1,9 @@
-# @cosmic-plus/base
+**base /**
+[Readme](https://cosmic.plus/#view:js-base)
+• [Contributing](https://cosmic.plus/#view:js-base/CONTRIBUTING)
+• [Changelog](https://cosmic.plus/#view:js-base/CHANGELOG)
+
+# Readme
 
 ![Licence](https://img.shields.io/github/license/cosmic-plus/js-base.svg)
 [![Dependencies](https://david-dm.org/cosmic-plus/js-base/status.svg)](https://david-dm.org/cosmic-plus/js-base)

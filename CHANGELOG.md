@@ -1,12 +1,21 @@
+**base /**
+[Readme](https://cosmic.plus/#view:js-base)
+• [Contributing](https://cosmic.plus/#view:js-base/CONTRIBUTING)
+• [Changelog](https://cosmic.plus/#view:js-base/CHANGELOG)
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
 
 ## Unreleased
 
+### Added
+
+- Documentation: add navigation header.
+
 ### Changed
 
-- Documentation: update contributing guidelines
+- Documentation: update contributing guidelines.
 
 ## 2.0.5 - 2019-07-26
 

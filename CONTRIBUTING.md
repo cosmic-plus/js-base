@@ -1,4 +1,9 @@
-# Contributing Guidelines
+**base /**
+[Readme](https://cosmic.plus/#view:js-base)
+• [Contributing](https://cosmic.plus/#view:js-base/CONTRIBUTING)
+• [Changelog](https://cosmic.plus/#view:js-base/CHANGELOG)
+
+# Contributing
 
 Welcome to new contributors! This project is open to input & edits.
 
