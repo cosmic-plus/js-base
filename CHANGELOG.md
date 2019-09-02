@@ -7,6 +7,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Unreleased
+
+### Fixed
+
+- Documentation: Publish CONTRIBUTING.md, remove double-title.
+
 ## 2.1.0 - 2019-08-31
 
 ### Added
