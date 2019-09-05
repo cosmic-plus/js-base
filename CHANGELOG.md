@@ -9,6 +9,11 @@ All notable changes to this project will be documented in this file.
 
 ## Unreleased
 
+### Changed
+
+- Protocol: SEP-0007 wallets now need a source. Sourceless XDR links have been
+  removed from SEP-0007 specifications.
+
 ### Fixed
 
 - Documentation: Publish CONTRIBUTING.md, remove double-title.

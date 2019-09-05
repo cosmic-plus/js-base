@@ -23,6 +23,7 @@ wallets.Sep7Wallet = {
   protocol: "sep0007",
   url: "web+stellar:tx/",
   target: "external",
+  needSource: true,
   needNetwork: true
 }
 
