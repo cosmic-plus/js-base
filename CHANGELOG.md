@@ -7,16 +7,16 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## 2.2.0 - 2019-09-07
+
+### Added
+
+- Documentation: Publish CONTRIBUTING.md.
 
 ### Changed
 
 - Protocol: SEP-0007 wallets now need a source. Sourceless XDR links have been
   removed from SEP-0007 specifications.
-
-### Fixed
-
-- Documentation: Publish CONTRIBUTING.md, remove double-title.
 
 ## 2.1.0 - 2019-08-31
 
