@@ -18,6 +18,13 @@ wallets.LedgerWallet = {
   needNetwork: true
 }
 
+wallets.TrezorWallet = {
+  name: "Trezor Wallet (beta)",
+  protocol: "trezorwallet",
+  needSource: true,
+  needNetwork: true
+}
+
 wallets.Sep7Wallet = {
   name: "Sep-0007 Wallet",
   protocol: "sep0007",
