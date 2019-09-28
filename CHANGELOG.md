@@ -7,6 +7,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2.3.0 - 2019-09-28
+
+### Added
+
+- Data: Add Trezor Wallet.
+
 ## 2.2.0 - 2019-09-07
 
 ### Added
