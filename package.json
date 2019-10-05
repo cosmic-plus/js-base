@@ -1,6 +1,6 @@
 {
   "name": "@cosmic-plus/base",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Various base modules related to Stellar",
   "author": "MisterTicot <mister.ticot@cosmic.plus>",
   "homepage": "https://cosmic.plus/#view:js-base",
