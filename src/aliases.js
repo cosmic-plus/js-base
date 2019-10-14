@@ -1,4 +1,4 @@
-"use_strict"
+"use strict"
 /**
  * Aliases handlers & most known Stellar addresses.
  *

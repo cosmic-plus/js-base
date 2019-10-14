@@ -1,4 +1,4 @@
-"use_strict"
+"use strict"
 /**
  * Wallets & signing methods that accept arbitrary transactions as input.
  */
