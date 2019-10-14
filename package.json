@@ -11,7 +11,7 @@
   "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean": "rm -rf es5/.",
+    "clean": "rm -rf es5/*",
     "prettier": "prettier --write --no-semi 'src/**/*.{js,json,md}' '*.{js,json,md}'",
     "eslint": "eslint --fix 'src/**/*.js' '*.js'",
     "lint": "npm run prettier && npm run eslint",
