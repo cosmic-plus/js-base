@@ -19,6 +19,12 @@ Versioning](https://semver.org/spec/v2.0.0.html)**. Version syntax is
 backward-compatibility and can be updated to without risk of breakage. For major
 releases, please check this changelog before upgrading.
 
+## 2.5.1 - 2019-11-27
+
+### Fixed
+
+- Data: Fix Sep-0007 wallet URL.
+
 ## 2.5.0 - 2019-11-27
 
 ### Added
