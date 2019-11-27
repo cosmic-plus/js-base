@@ -42,7 +42,7 @@ wallets.StellarTerm = {
 wallets.Sep7Wallet = {
   name: "Sep-0007 Wallet",
   protocol: "sep0007",
-  url: "web+stellar:tx/",
+  url: "web+stellar:",
   target: "external",
   needSource: true,
   needNetwork: true
