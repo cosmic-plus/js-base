@@ -25,6 +25,20 @@ wallets.TrezorWallet = {
   needNetwork: true
 }
 
+wallets.Lobstr = {
+  name: "Lobstr Web (partial support)",
+  protocol: "sep0007",
+  url: "https://lobstr.co/?tx=",
+  target: "new"
+}
+
+wallets.StellarTerm = {
+  name: "StellarTerm (partial support)",
+  protocol: "sep0007",
+  url: "https://stellarterm.com/?tx=",
+  target: "new"
+}
+
 wallets.Sep7Wallet = {
   name: "Sep-0007 Wallet",
   protocol: "sep0007",
