@@ -5,12 +5,6 @@
 
 const wallets = exports
 
-wallets.StellarAuthenticator = {
-  name: "Stellar Authenticator",
-  protocol: "cosmiclink",
-  url: "https://stellar-authenticator.org/"
-}
-
 wallets.LedgerWallet = {
   name: "Ledger Wallet",
   protocol: "ledgerwallet",
@@ -23,6 +17,12 @@ wallets.TrezorWallet = {
   protocol: "trezorwallet",
   needSource: true,
   needNetwork: true
+}
+
+wallets.StellarAuthenticator = {
+  name: "Stellar Authenticator",
+  protocol: "cosmiclink",
+  url: "https://stellar-authenticator.org/"
 }
 
 wallets.Lobstr = {
