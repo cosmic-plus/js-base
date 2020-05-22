@@ -35,6 +35,6 @@
     "@babel/runtime": "^7.9.6",
     "@cosmic-plus/jsutils": "^2.0.2",
     "axios": "^0.19.2",
-    "stellar-sdk": "^4.1.0"
+    "stellar-sdk": "^5.0.2"
   }
 }
