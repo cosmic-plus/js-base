@@ -1,11 +1,11 @@
 "use strict"
 
-const env = require("@cosmic-plus/jsutils/es5/env")
+const { isBrowser, nodeRequire } = require("@kisbox/helpers/compat/environment")
 
-if (env.isBrowser) {
+if (isBrowser) {
   if (window.StellarSdk === undefined)
     console.error("Missing dependency: StellarSdk")
   else module.exports = window.StellarSdk
 } else {
-  module.exports = env.nodeRequire("stellar-sdk")
+  module.exports = nodeRequire("stellar-sdk")
 }

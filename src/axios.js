@@ -1,9 +1,9 @@
 "use_stict"
 
-const env = require("@cosmic-plus/jsutils/es5/env")
+const { isBrowser, nodeRequire } = require("@kisbox/helpers/compat/environment")
 
-if (env.isBrowser) {
+if (isBrowser) {
   module.exports = require("./stellar-sdk").axios
 } else {
-  module.exports = env.nodeRequire("axios")
+  module.exports = nodeRequire("axios")
 }

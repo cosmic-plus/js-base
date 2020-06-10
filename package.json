@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.9.6",
-    "@cosmic-plus/jsutils": "^2.0.2",
+    "@kisbox/helpers": "^1.0.0-beta.10",
     "axios": "^0.19.2",
     "stellar-sdk": "^5.0.2"
   }
