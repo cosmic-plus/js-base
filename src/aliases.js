@@ -34,7 +34,7 @@ aliases.set = function (conf, aliases) {
  * @param {Array} publicKeys An array of public keys
  */
 aliases.remove = function (conf, publicKeys) {
-  publicKeys.forEach(entry => delete conf.aliases[entry])
+  publicKeys.forEach((entry) => delete conf.aliases[entry])
 }
 
 /**
