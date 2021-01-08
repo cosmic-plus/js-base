@@ -1,6 +1,6 @@
 {
   "name": "@cosmic-plus/base",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "description": "Various base modules related to Stellar",
   "author": "MisterTicot <mister.ticot@cosmic.plus>",
   "homepage": "https://cosmic.plus/#view:js-base",
@@ -24,17 +24,17 @@
     "publish-release": "npm run tag-release && npm run push-release && npm publish"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.1",
-    "@babel/core": "^7.12.3",
-    "@babel/plugin-transform-runtime": "^7.12.1",
-    "@babel/preset-env": "^7.12.1",
-    "eslint": "^7.13.0",
-    "prettier": "^2.1.2"
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "eslint": "^7.17.0",
+    "prettier": "^2.2.1"
   },
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@kisbox/helpers": "^1.0.0-beta.17",
-    "axios": "^0.21.0",
+    "@kisbox/helpers": "^1.0.0-beta.19",
+    "axios": "^0.21.1",
     "stellar-sdk": "^7.0.0"
   }
 }
