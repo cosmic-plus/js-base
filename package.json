@@ -35,6 +35,6 @@
     "@babel/runtime": "^7.12.5",
     "@kisbox/helpers": "^1.0.0-beta.19",
     "axios": "^0.21.1",
-    "stellar-sdk": "^7.0.0"
+    "stellar-sdk": "^8.2.5"
   }
 }
