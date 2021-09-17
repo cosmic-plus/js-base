@@ -19,6 +19,14 @@ Versioning](https://semver.org/spec/v2.0.0.html)**. Version syntax is
 backward-compatibility and can be updated to without risk of breakage. For major
 releases, please check this changelog before upgrading.
 
+## 2.11.0 - 2021-09-17
+
+### Changed
+
+- Data: Update aliases.
+- Meta: Upgrade [stellar-sdk] to 8.x.
+- Meta: Update dependencies.
+
 ## 2.10.0 - 2021-01-08
 
 ### Changed
